@@ -1,3 +1,5 @@
+<img width="1858" height="785" alt="Screenshot 2026-03-12 134207" src="https://github.com/user-attachments/assets/97736980-70f3-473a-b122-50faee90c92c" />
+<img width="1858" height="785" alt="Screenshot 2026-03-12 134207" src="https://github.com/user-attachments/assets/c67d28d2-22f8-458c-9586-faea44ffe6ff" />
 # 🛒 E-Commerce Data Analysis — Excel
 
 > "A little practice beats a lot of theory."
